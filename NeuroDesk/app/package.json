@@ -1,0 +1,13 @@
+{
+  "name": "neurodesk-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "28.2.0",
+    "ws": "8.15.1"
+  }
+}
